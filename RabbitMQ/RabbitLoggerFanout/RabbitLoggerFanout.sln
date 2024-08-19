@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSender", "LogSender\LogSender.csproj", "{071F7329-0498-40BB-B0F3-B10F1E154F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReceiver", "LogReceiver\LogReceiver.csproj", "{DFBDEAC4-A0C5-4F24-A72B-F54AB995CA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071F7329-0498-40BB-B0F3-B10F1E154F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071F7329-0498-40BB-B0F3-B10F1E154F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071F7329-0498-40BB-B0F3-B10F1E154F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071F7329-0498-40BB-B0F3-B10F1E154F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBDEAC4-A0C5-4F24-A72B-F54AB995CA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBDEAC4-A0C5-4F24-A72B-F54AB995CA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBDEAC4-A0C5-4F24-A72B-F54AB995CA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBDEAC4-A0C5-4F24-A72B-F54AB995CA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596AF858-C5B0-46F8-A18A-6303874B3601}
+	EndGlobalSection
+EndGlobal
